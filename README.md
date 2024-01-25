@@ -6,6 +6,6 @@ Desarrollo de cursos de Feedback en @platzi 💚
 
 # Certificados logrados 🚀
 
-# Cursos de tipo -> Audicursos 
+# Cursos de tipo -> Audiocursos 
 * Ana María de la Cámara
 * [LinkedIn](https://www.linkedin.com/in/ana-maria-de-la-camara/)
